@@ -1,3 +1,4 @@
+package com.aggregate;
 import javax.swing.JOptionPane;
 
 public class app {
