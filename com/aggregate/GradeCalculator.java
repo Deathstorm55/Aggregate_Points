@@ -1,3 +1,4 @@
+package com.aggregate;
 import java.util.Scanner;
 
 public class GradeCalculator {
